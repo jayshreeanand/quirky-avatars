@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1014.000000, -1444.000000)">
+            <g id="pat9" transform="translate(1014.000000, 1444.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#4D67F3" xlink:href="#path-1"></use>
+                    <path d="M33,119 C79.5,166 110,84.5259257 110,42 C110,-0.525925735 75.5259257,-35 33,-35 C-9.52592573,-35 -44,-0.525925735 -44,42 C-44,84.5259257 -13.5,72 33,119 Z" id="Oval" fill="#FEE039" mask="url(#mask-2)"></path>
+                    <polygon id="Triangle" fill="#215428" mask="url(#mask-2)" points="177 -22 379 328 -25 328"></polygon>
+                    <polygon id="Triangle-Copy" fill="#FFAAA5" mask="url(#mask-2)" points="166 64 264 234 68 234"></polygon>
+                    <path d="M30.0784314,-4.04411765 L82.7852755,58.2457891" id="Line-2" stroke="#2D2D31" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M19.0784314,5.95588235 L71.7852755,68.2457891" id="Line-2-Copy" stroke="#2D2D31" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M7.07843137,16.9705882 L59.7852755,80.2188012" id="Line-2-Copy-2" stroke="#2D2D31" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                    <path d="M-3.92156863,30.9558824 L48.7852755,93.2457891" id="Line-2-Copy-3" stroke="#2D2D31" stroke-width="5" stroke-linecap="square" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat24</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1014.000000, -3245.000000)">
+            <g id="pat24" transform="translate(1014.000000, 3245.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#353535" xlink:href="#path-1"></use>
+                    <circle id="Oval" fill="#CF91FD" mask="url(#mask-2)" cx="108" cy="108" r="74"></circle>
+                    <circle id="Oval-Copy-47" fill="#9200FF" mask="url(#mask-2)" cx="108" cy="108" r="61"></circle>
+                    <path d="M60,103 C62.8846154,112.884058 66.8910256,114.637681 72.0192308,108.26087 C77.1474359,101.884058 81.474359,103.797101 85,114" id="Path-3-Copy-14" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M98,101 C101,110.884058 105.166667,112.637681 110.5,106.26087 C115.833333,99.884058 120.333333,101.797101 124,112" id="Path-3-Copy-15" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M73,81 C76,90.884058 80.1666667,92.6376812 85.5,86.2608696 C90.8333333,79.884058 95.3333333,81.7971014 99,92" id="Path-3-Copy-17" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M113,81 C116,90.884058 120.166667,92.6376812 125.5,86.2608696 C130.833333,79.884058 135.333333,81.7971014 139,92" id="Path-3-Copy-18" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M73,123 C76,132.884058 80.1666667,134.637681 85.5,128.26087 C90.8333333,121.884058 95.3333333,123.797101 99,134" id="Path-3-Copy-20" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M113,123 C116,132.884058 120.166667,134.637681 125.5,128.26087 C130.833333,121.884058 135.333333,123.797101 139,134" id="Path-3-Copy-19" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                    <path d="M137,101 C139.884615,110.884058 143.891026,112.637681 149.019231,106.26087 C154.147436,99.884058 158.474359,101.797101 162,112" id="Path-3-Copy-16" stroke="#FFFFFF" stroke-width="3" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

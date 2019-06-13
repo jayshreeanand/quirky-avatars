@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="215px" viewBox="0 0 226 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-608.000000, -1082.000000)">
+            <g id="pat5" transform="translate(608.000000, 1082.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#634DB3" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#EB9CDB" mask="url(#mask-2)" x="92" y="93" width="167" height="167"></rect>
+                    <path d="M47.5,103 C62.5,29.5 107.5,52.1746511 107.5,16 C107.5,-20.1746511 83.6746511,-28 47.5,-28 C11.3253489,-28 -18,1.32534889 -18,37.5 C-18,73.6746511 32.5,176.5 47.5,103 Z" id="Oval" fill="#FFBE98" mask="url(#mask-2)"></path>
+                    <rect id="Rectangle-Copy" fill="#2D2D31" mask="url(#mask-2)" x="139" y="140" width="73" height="73"></rect>
+                </g>
+                <g id="dots" transform="translate(167.000000, 61.000000)" fill="#FFFFFF">
+                    <ellipse id="Oval" cx="5.9" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy" cx="29.5" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-2" cx="53.1" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-5" cx="5.9" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-4" cx="29.5" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-3" cx="53.1" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-11" cx="5.9" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-10" cx="29.5" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-9" cx="53.1" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-8" cx="5.9" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-7" cx="29.5" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-6" cx="53.1" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-23" cx="-62.1" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-22" cx="-38.5" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-21" cx="-14.9" cy="5.80357143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-20" cx="-62.1" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-19" cx="-38.5" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-18" cx="-14.9" cy="23.2142857" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-17" cx="-62.1" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-16" cx="-38.5" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-15" cx="-14.9" cy="41.7857143" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-14" cx="-62.1" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-13" cx="-38.5" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                    <ellipse id="Oval-Copy-12" cx="-14.9" cy="59.1964286" rx="5.9" ry="5.80357143"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

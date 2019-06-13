@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat21</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1014.000000, -2884.000000)">
+            <g id="pat21" transform="translate(1014.000000, 2884.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#1D2D45" xlink:href="#path-1"></use>
+                    <circle id="Oval" fill="#D7A1FF" mask="url(#mask-2)" cx="71" cy="172" r="74"></circle>
+                    <circle id="Oval" stroke="#824BAC" stroke-width="3" mask="url(#mask-2)" cx="44.5" cy="137.5" r="11.5"></circle>
+                    <circle id="Oval-Copy-40" stroke="#824BAC" stroke-width="3" mask="url(#mask-2)" cx="84.5" cy="207.5" r="11.5"></circle>
+                    <circle id="Oval-Copy-41" stroke="#824BAC" stroke-width="3" mask="url(#mask-2)" cx="120.5" cy="158.5" r="11.5"></circle>
+                    <circle id="Oval" fill="#824BAC" mask="url(#mask-2)" cx="60.5" cy="165.5" r="4.5"></circle>
+                    <circle id="Oval-Copy-42" fill="#824BAC" mask="url(#mask-2)" cx="103.5" cy="133.5" r="4.5"></circle>
+                    <circle id="Oval-Copy-43" fill="#824BAC" mask="url(#mask-2)" cx="125.5" cy="191.5" r="4.5"></circle>
+                    <g id="Group-12" mask="url(#mask-2)">
+                        <g transform="translate(168.950404, 85.494267) rotate(29.000000) translate(-168.950404, -85.494267) translate(66.450404, 55.994267)">
+                            <circle id="Oval" fill="#F8E71C" cx="103.5" cy="29.5" r="29.5"></circle>
+                            <g id="Group-10" stroke-width="1" fill="none" transform="translate(137.000000, 9.000000)">
+                                <rect id="Rectangle" fill="#FFFFFF" x="0" y="1.77635684e-15" width="32" height="18"></rect>
+                                <rect id="Rectangle-Copy-9" fill="#FFFFFF" x="0" y="23" width="32" height="18"></rect>
+                            </g>
+                            <g id="Group-9" stroke-width="1" fill="none" transform="translate(0.000000, 9.000000)">
+                                <rect id="Rectangle-Copy-15" fill="#FFFFFF" x="0" y="1.77635684e-15" width="32" height="18"></rect>
+                                <rect id="Rectangle-Copy-14" fill="#FFFFFF" x="36" y="1.77635684e-15" width="32" height="18"></rect>
+                                <rect id="Rectangle-Copy-13" fill="#FFFFFF" x="0" y="23" width="32" height="18"></rect>
+                                <rect id="Rectangle-Copy-12" fill="#FFFFFF" x="36" y="23" width="32" height="18"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

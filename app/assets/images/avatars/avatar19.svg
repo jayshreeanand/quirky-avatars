@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat19</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-212.000000, -2884.000000)">
+            <g id="pat19" transform="translate(212.000000, 2884.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#371848" xlink:href="#path-1"></use>
+                    <circle id="Oval-Copy-25" fill="#FFFFFF" mask="url(#mask-2)" cx="141.5" cy="73.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-36" fill="#FFFFFF" mask="url(#mask-2)" cx="178.5" cy="142.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-37" fill="#FFFFFF" mask="url(#mask-2)" cx="40.5" cy="45.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-38" fill="#FFFFFF" mask="url(#mask-2)" cx="160.5" cy="21.5" r="9.5"></circle>
+                    <path d="M-35,158.094017 C11,160.094017 34,144.260684 34,110.594017 C34,76.9273504 50,62.7606838 82,68.0940171 C105.333333,72.6980057 122,97.6980057 132,143.094017 C147,211.188034 105,273.094017 49,240.594017 C11.6666667,218.92735 -16.3333333,191.42735 -35,158.094017 Z" id="Path-5" fill="#FF5839" mask="url(#mask-2)"></path>
+                    <path d="M-9.96670299,158.132086 C24.6550288,159.644412 41.9658947,147.671828 41.9658947,122.214333 C41.9658947,96.7568387 54.0082361,86.0445266 78.0929191,90.0773971 C95.6546671,93.5587639 108.198773,112.462844 115.725236,146.789638 C127.014931,198.279828 95.403785,245.090855 53.2555898,220.515551 C25.156793,204.132015 4.0826954,183.337526 -9.96670299,158.132086 Z" id="Path-5-Copy" stroke="#FFD0D0" stroke-width="2" stroke-dasharray="7" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

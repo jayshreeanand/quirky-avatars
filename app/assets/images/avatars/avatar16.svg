@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-212.000000, -2524.000000)">
+            <g id="pat16" transform="translate(212.000000, 2524.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#272947" xlink:href="#path-1"></use>
+                    <circle id="Oval" stroke="#F5A623" stroke-width="11" mask="url(#mask-2)" cx="194.5" cy="64.5" r="107.5"></circle>
+                    <circle id="Oval-Copy-27" fill="#FF0000" mask="url(#mask-2)" cx="194.5" cy="64.5" r="88.5"></circle>
+                    <polygon id="Star" fill="#FFFFFF" mask="url(#mask-2)" points="69 172 56.0687244 178.798374 58.5383783 164.399187 48.0767566 154.201626 62.5343622 152.100813 69 139 75.4656378 152.100813 89.9232434 154.201626 79.4616217 164.399187 81.9312756 178.798374"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" mask="url(#mask-2)" cx="37.5" cy="89.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-25" fill="#FFFFFF" mask="url(#mask-2)" cx="137.5" cy="179.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-26" stroke="#272947" stroke-width="4" mask="url(#mask-2)" cx="160.5" cy="60.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-28" stroke="#272947" stroke-width="4" mask="url(#mask-2)" cx="200.5" cy="110.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-29" stroke="#272947" stroke-width="4" mask="url(#mask-2)" cx="160.5" cy="110.5" r="9.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

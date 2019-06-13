@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-212.000000, -3245.000000)">
+            <g id="pat22" transform="translate(212.000000, 3245.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#181848" xlink:href="#path-1"></use>
+                    <polygon id="Triangle" fill="#F5A623" mask="url(#mask-2)" transform="translate(128.500000, 167.000000) rotate(-43.000000) translate(-128.500000, -167.000000) " points="128.5 149 149 185 108 185"></polygon>
+                    <circle id="Oval" stroke="#979797" fill="#00D9FF" mask="url(#mask-2)" cx="72.5" cy="64.5" r="72.5"></circle>
+                    <path d="M12,126 C42.6666667,136.666667 62.8333333,118.333333 72.5,71 C82.1666667,23.6666667 110,6 156,18" id="Path-7" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                    <path d="M23,126 C53.6666667,136.666667 73.8333333,118.333333 83.5,71 C93.1666667,23.6666667 121,6 167,18" id="Path-7-Copy" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                    <path d="M-18,96 C12.6666667,106.666667 32.8333333,88.3333333 42.5,41 C52.1666667,-6.33333333 80,-24 126,-12" id="Path-7-Copy-3" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                    <path d="M-7,96 C23.6666667,106.666667 43.8333333,88.3333333 53.5,41 C63.1666667,-6.33333333 91,-24 137,-12" id="Path-7-Copy-2" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                    <path d="M52,146 C82.6666667,156.666667 102.833333,138.333333 112.5,91 C122.166667,43.6666667 150,26 196,38" id="Path-7-Copy-5" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                    <path d="M63,146 C93.6666667,156.666667 113.833333,138.333333 123.5,91 C133.166667,43.6666667 161,26 207,38" id="Path-7-Copy-4" stroke="#181848" stroke-width="6" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M170,129 L188,115.547558" id="Line-5" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M190,69 L208,55.5475579" id="Line-5-Copy" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M40,189 L58,175.547558" id="Line-5-Copy-2" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

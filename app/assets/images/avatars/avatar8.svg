@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-613.000000, -1444.000000)">
+            <g id="pat8" transform="translate(613.000000, 1444.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#2D2D31" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#FFA498" mask="url(#mask-2)" x="0" y="-44" width="107" height="107"></rect>
+                    <circle id="Oval" fill="#FEE039" mask="url(#mask-2)" cx="92" cy="196" r="108"></circle>
+                    <circle id="Oval-Copy-24" fill="#F5A623" mask="url(#mask-2)" cx="92" cy="196" r="64"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

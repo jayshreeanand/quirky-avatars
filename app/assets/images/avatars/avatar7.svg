@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+        <polygon id="path-3" points="0.861519022 0.332665761 79.8047283 0.332665761 79.8047283 158.223291 0.861519022 158.223291"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-212.000000, -1444.000000)">
+            <g id="pat7" transform="translate(212.000000, 1444.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#E6453D" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)">
+                        <g transform="translate(-97.054348, -149.788043)">
+                            <g id="Group-3" transform="translate(243.114130, 196.395136)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M79.8050788,0.332665761 C36.5713832,0.332665761 0.861519022,35.6779647 0.861519022,79.277394 C0.861519022,122.877992 36.5713832,158.223291 79.8050788,158.223291 L79.8050788,0.332665761 Z" id="Fill-1" fill="#4D67F3" mask="url(#mask-4)"></path>
+                            </g>
+                            <g id="Group-6" transform="translate(0.000000, 0.036440)">
+                                <path d="M253.049075,79.0457107 C253.049075,79.0457107 272.913206,177.197885 343.021901,172.523972 C343.021901,172.523972 286.934945,346.627232 109.326249,263.665276 C109.326249,263.665276 78.9458142,65.0239715 188.782771,29.9696237 C188.782771,29.9696237 235.364157,18.7265259 253.049075,79.0457107 Z" id="Fill-4" fill="#FEE039" transform="translate(224.247149, 157.607196) rotate(163.000000) translate(-224.247149, -157.607196) "></path>
+                                <path d="M237.554348,134.162318 L237.554348,249.832965" id="Line-3" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M202.554348,134.162318 L202.554348,249.832965" id="Line-3-Copy" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M220.554348,134.162318 L220.554348,249.832965" id="Line-3-Copy-2" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M185.554348,134.162318 L185.554348,249.832965" id="Line-3-Copy-3" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M167.554348,134.162318 L167.554348,249.832965" id="Line-3-Copy-4" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M150.554348,134.162318 L150.554348,249.832965" id="Line-3-Copy-5" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M307.554348,134.162318 L307.554348,249.832965" id="Line-3-Copy-10" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M290.554348,134.162318 L290.554348,249.832965" id="Line-3-Copy-8" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M272.554348,134.162318 L272.554348,249.832965" id="Line-3-Copy-7" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M255.554348,134.162318 L255.554348,249.832965" id="Line-3-Copy-6" stroke="#E6453D" stroke-width="6" stroke-linecap="square"></path>
+                                <path d="M83.3103731,228.829088 C83.3103731,228.829088 129.891759,217.585991 147.576677,277.905175 C147.576677,277.905175 167.440808,376.057349 237.549504,371.383436 C237.549504,371.383436 181.462547,545.486697 3.85385136,462.524741 C3.85385136,462.524741 -26.5265834,263.883436 83.3103731,228.829088" id="Fill-4-Copy" fill="#2D2D31"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

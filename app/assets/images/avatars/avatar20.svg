@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-613.000000, -2884.000000)">
+            <g id="pat20" transform="translate(613.000000, 2884.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#1B0330" xlink:href="#path-1"></use>
+                    <circle id="Oval-Copy-25" fill="#FFFFFF" mask="url(#mask-2)" cx="30.5" cy="124.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-44" fill="#FFFFFF" mask="url(#mask-2)" cx="107.5" cy="196.5" r="9.5"></circle>
+                    <circle id="Oval-Copy-45" fill="#FFFFFF" mask="url(#mask-2)" cx="162.5" cy="136.5" r="9.5"></circle>
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="7" mask="url(#mask-2)" cx="107.5" cy="215.5" r="66.5"></circle>
+                    <circle id="Oval-Copy-39" stroke="#FFFFFF" stroke-width="7" mask="url(#mask-2)" cx="107.5" cy="215.5" r="45.5"></circle>
+                    <polygon id="Path-6" fill="#FF5000" mask="url(#mask-2)" points="46.5 10 -14 32 67 51 26.5 85.5 82 81 93 131 114 81 187 124.5 157.5 53 215 60 161 10 107 -29"></polygon>
+                    <circle id="Oval" fill="#FF5000" mask="url(#mask-2)" cx="101" cy="35" r="61"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

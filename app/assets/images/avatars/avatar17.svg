@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-613.000000, -2524.000000)">
+            <g id="pat17" transform="translate(613.000000, 2524.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#0037D0" xlink:href="#path-1"></use>
+                    <path d="M236,-91 C144.734207,10.4722028 95.5459566,67.8775192 88.4352492,81.2159494 C77.7691881,101.223595 104.521009,119.742506 122.590162,110.598296 C134.636264,104.502157 172.439544,37.3027244 236,-91 Z" id="Path-3" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                    <circle id="Oval" fill="#FF0000" mask="url(#mask-2)" cx="111" cy="90" r="25"></circle>
+                    <circle id="Oval-Copy-35" fill="#FF0000" mask="url(#mask-2)" cx="111" cy="90" r="25"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="60" cy="155" r="16"></circle>
+                    <circle id="Oval-Copy-30" fill="#000000" mask="url(#mask-2)" cx="110" cy="155" r="16"></circle>
+                    <circle id="Oval-Copy-31" fill="#000000" mask="url(#mask-2)" cx="159" cy="155" r="16"></circle>
+                    <circle id="Oval-Copy-34" fill="#000000" mask="url(#mask-2)" cx="60" cy="205" r="16"></circle>
+                    <circle id="Oval-Copy-33" fill="#000000" mask="url(#mask-2)" cx="110" cy="205" r="16"></circle>
+                    <circle id="Oval-Copy-32" fill="#000000" mask="url(#mask-2)" cx="159" cy="205" r="16"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

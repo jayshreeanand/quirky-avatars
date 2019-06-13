@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="215px" height="215px" viewBox="0 0 215 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>pat23</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="107.5" cy="107.5" r="107.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-613.000000, -3245.000000)">
+            <g id="pat23" transform="translate(613.000000, 3245.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#162109" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill="#70FF00" mask="url(#mask-2)" transform="translate(161.192388, 161.192388) rotate(-45.000000) translate(-161.192388, -161.192388) " x="154.692388" y="154.692388" width="13" height="13"></rect>
+                    <rect id="Rectangle-Copy-16" fill="#70FF00" mask="url(#mask-2)" transform="translate(22.192388, 72.192388) rotate(-45.000000) translate(-22.192388, -72.192388) " x="15.6923882" y="65.6923882" width="13" height="13"></rect>
+                    <rect id="Rectangle-Copy-17" fill="#70FF00" mask="url(#mask-2)" transform="translate(128.192388, 34.192388) rotate(-45.000000) translate(-128.192388, -34.192388) " x="121.692388" y="27.6923882" width="13" height="13"></rect>
+                </g>
+                <path d="M23.5,175.547558 L196.5,41.5" id="Line-5" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M33.5,190.547558 L206.5,56.5" id="Line-5-Copy-3" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                <path d="M7.5,164.547558 L180.5,30.5" id="Line-5-Copy-4" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square"></path>
+                <circle id="Oval" fill="#D0021B" cx="107.5" cy="107.5" r="51.5"></circle>
+                <path d="M107.5,159 C135.942665,159 107.5,135.942665 107.5,107.5 C107.5,79.0573354 135.942665,56 107.5,56 C79.0573354,56 56,79.0573354 56,107.5 C56,135.942665 79.0573354,159 107.5,159 Z" id="Oval-Copy-46" fill="#FF4D00"></path>
+            </g>
+        </g>
+    </g>
+</svg>
