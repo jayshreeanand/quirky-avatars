@@ -9,6 +9,9 @@ gem 'puma'
 gem 'rails', '~> 5.2.3'
 gem 'sqlite3'
 
+# Views
+gem 'turbolinks', '~> 5'
+
 # Rack middleware to allow CORS
 gem 'rack-cors'
 
