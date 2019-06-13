@@ -12,7 +12,7 @@ gem 'pg'
 gem 'turbolinks', '~> 5'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
-
+gem 'uglifier'
 # Rack middleware to allow CORS
 gem 'rack-cors'
 
