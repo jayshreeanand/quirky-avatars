@@ -67,3 +67,8 @@ a {
   background-color: #2E30DB;
   border-color: #2E30DB;
 }
+
+.card-img-top {
+  width: 100%;
+  height: 250px;
+}

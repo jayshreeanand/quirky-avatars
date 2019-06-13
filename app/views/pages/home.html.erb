@@ -1,1 +1,52 @@
-Test
+<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+  <a class="navbar-brand my-0 mr-md-auto"href="#">
+    <%= image_tag('logo.svg', class: 'logo', alt: 'logo') %>
+  </a>
+  <nav class="my-2 my-md-0 mr-md-3">
+  </nav>
+  <a class="btn btn-outline-primary" href="">Download Sketch</a>
+</div>
+
+<main role="main">
+  <section class="jumbotron text-center">
+    <div class="container" id="top">
+      <h1 class="jumbotron-heading">Quirky Avatars</h1>
+      <p class="lead text-muted">Quirky is a free collection pattern avatars that you can use for your apps. Easy copy SVG code or download PNG.</p>
+      <p>
+        <a href="https://getbootstrap.com/docs/4.3/examples/album/#" class="btn btn-primary my-2">Download</a>
+        <a href="" class="btn btn-secondary my-2">Share</a>
+      </p>
+    </div>
+  </section>
+
+  <div class="album py-5 bg-light">
+    <div class="container">
+      <div class="row">
+        <% for i in 1..21 %>
+          <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+              <%= image_tag("avatars/avatar#{i}.svg", class: 'bd-placeholder-img card-img-top', alt: 'logo') %>
+              <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center">
+                  <small class="text-muted">Download</small>
+                  <small class="text-muted">Copy SVG</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="text-muted">
+  <div class="container">
+    <p class="float-right">
+      <a href="#top">Back to top</a>
+    </p>
+    <p>Made with &#10084; by <a href="https://twitter.com/ahilapillai">@ahilapillai</a> and <a href="https://twitter.com/jayshreeanand">@jayshreeanand</a></p>
+    <!-- <p>© Zona 2019</p> -->
+  </div>
+</footer>
