@@ -12,6 +12,7 @@ gem 'sqlite3'
 # Views
 gem 'turbolinks', '~> 5'
 gem 'bootstrap', '~> 4.3.1'
+gem 'jquery-rails'
 
 # Rack middleware to allow CORS
 gem 'rack-cors'
