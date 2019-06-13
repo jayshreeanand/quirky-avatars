@@ -1,3 +1,8 @@
+.text-muted:hover, a:hover {
+  color: #2E30DB !important;
+  text-decoration: none !important;
+}
+
 .jumbotron {
   padding-top: 3rem;
   padding-bottom: 3rem;
