@@ -28,13 +28,9 @@
               <%= image_tag("avatars/avatar#{i}.svg", class: 'bd-placeholder-img card-img-top', alt: 'logo') %>
               <div class="card-body">
                 <div class="d-flex justify-content-end align-items-center">
-                  <a href="#">
-                    <small class="text-muted">SVG</small>
-                  </a>
+                  <%= link_to"svg", asset_path("avatars/avatar#{i}.svg"), class: "download-link text-muted", download: "avatar#{i}.svg" %>
                   <small class="text-muted">&nbsp;|&nbsp;</small>
-                  <a href="#">
-                    <small class="text-muted">PNG</small>
-                  </a>
+                  <%= link_to"png", asset_path("avatars/avatar#{i}.svg"), class: "download-link text-muted", download: "avatar#{i}.png" %>
                 </div>
               </div>
             </div>

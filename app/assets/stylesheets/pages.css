@@ -81,3 +81,7 @@ a {
 .coffee {
   font-size: 25px;
 }
+
+.download-link {
+  font-size: 80%;
+}
