@@ -7,8 +7,7 @@ ruby '2.5.1'
 gem 'foreman'
 gem 'puma'
 gem 'rails', '~> 5.2.3'
-gem 'sqlite3'
-
+gem 'pg'
 # Views
 gem 'turbolinks', '~> 5'
 gem 'bootstrap', '~> 4.3.1'
