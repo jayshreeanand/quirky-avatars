@@ -1,4 +1,4 @@
-.text-muted:hover, a:hover {
+.text-muted:hover, a:hover text-muted {
   color: #2E30DB !important;
   text-decoration: none !important;
 }
